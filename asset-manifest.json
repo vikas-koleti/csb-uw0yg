@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vikas-koleti.github.io/csb-uw0yg/static/css/main.21530694.chunk.css",
+    "main.js": "https://vikas-koleti.github.io/csb-uw0yg/static/js/main.e465162c.chunk.js",
+    "main.js.map": "https://vikas-koleti.github.io/csb-uw0yg/static/js/main.e465162c.chunk.js.map",
+    "runtime-main.js": "https://vikas-koleti.github.io/csb-uw0yg/static/js/runtime-main.c881f8f3.js",
+    "runtime-main.js.map": "https://vikas-koleti.github.io/csb-uw0yg/static/js/runtime-main.c881f8f3.js.map",
+    "static/js/2.07f3889e.chunk.js": "https://vikas-koleti.github.io/csb-uw0yg/static/js/2.07f3889e.chunk.js",
+    "static/js/2.07f3889e.chunk.js.map": "https://vikas-koleti.github.io/csb-uw0yg/static/js/2.07f3889e.chunk.js.map",
+    "index.html": "https://vikas-koleti.github.io/csb-uw0yg/index.html",
+    "static/css/main.21530694.chunk.css.map": "https://vikas-koleti.github.io/csb-uw0yg/static/css/main.21530694.chunk.css.map",
+    "static/js/2.07f3889e.chunk.js.LICENSE.txt": "https://vikas-koleti.github.io/csb-uw0yg/static/js/2.07f3889e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c881f8f3.js",
+    "static/js/2.07f3889e.chunk.js",
+    "static/css/main.21530694.chunk.css",
+    "static/js/main.e465162c.chunk.js"
+  ]
+}
